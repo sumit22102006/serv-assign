@@ -105,7 +105,7 @@ Each student object has the following fields:
 
 ## 👤 Author
 
-**Vedant**
+**Sumit kumar**
 
 ## 📜 License
 
