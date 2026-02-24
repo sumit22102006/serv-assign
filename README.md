@@ -7,8 +7,9 @@ This repository contains Node.js backend assignments built using **Express.js**.
 
 A simple RESTful API built with **Node.js** and **Express.js** that performs CRUD-like operations on a list of student records stored in-memory.
 
-render : https://serv-assign-1.onrender.com/students
-postman : https://documenter.getpostman.com/view/50839270/2sBXcGDKLk
+-**render :** https://serv-assign-1.onrender.com/students
+
+**postman :** https://documenter.getpostman.com/view/50839270/2sBXcGDKLk
 
 ### 🛠 Tech Stack
 
